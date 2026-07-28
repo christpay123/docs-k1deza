@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-xfgft6.wedang77land.store/sitemap.xml
